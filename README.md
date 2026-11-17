@@ -14,6 +14,19 @@
 
 ## Featured Projects | 주요 프로젝트
 
+### 🧹 JY File Cleaner
+
+**무료 한글 Windows 통합 파일 분석·정리 프로그램 (v2.0 Beta)**
+
+- 디스크·파일 정리와 대용량 파일·폴더 TOP 20
+- SHA-256 중복 파일 및 유사 사진 탐색
+- 다운로드 정리, 파일명 변경, 이미지 변환, EXIF 확인
+- 폴더·ZIP 비교 및 Windows 휴지통 중심의 안전한 정리 흐름
+- Windows 10 64비트 실기 검증 · Python 설치 불필요
+
+[프로젝트 보기](https://github.com/dlckdtnr1212-lang/JY-File-Cleaner) · [무료 베타 다운로드](https://github.com/dlckdtnr1212-lang/JY-File-Cleaner/releases/tag/v2.0-beta)
+
+
 ### 🎮 RAID Champion DB
 
 **RAID: Shadow Legends 전투 분석 및 챔피언 데이터 관리 프로그램**
