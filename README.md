@@ -16,7 +16,7 @@
 
 ### 🧹 JY File Cleaner
 
-**무료 한글 Windows 통합 파일 분석·정리 프로그램 (v2.0 Beta) — 현재 배포 중단**
+**무료 한글 Windows 통합 파일 분석·정리 프로그램 (v2.0 Beta) — 공개 배포 중**
 
 - 디스크·파일 정리와 대용량 파일·폴더 TOP 20
 - SHA-256 중복 파일 및 유사 사진 탐색
@@ -24,9 +24,10 @@
 - 폴더·ZIP 비교 및 Windows 휴지통 중심의 안전한 정리 흐름
 - Windows 10 64비트 실기 검증 · Python 설치 불필요
 
-**⚠️ 실행 오류 확인으로 ZIP 공개 배포를 일시 중단했습니다. 현재 릴리스 파일을 다운로드하거나 실행하지 마세요.**
+**✅ 최신 배포본에서 Windows 10 64비트 WebView2 UI 실행 화면 확인 (2026-11-18)**  
+베타 버전으로, Windows 11을 포함한 모든 환경 및 기능에서의 무결점 동작을 보증하지 않습니다.
 
-[프로젝트 상태 확인](https://github.com/dlckdtnr1212-lang/JY-File-Cleaner)
+[공식 다운로드 (v2.0 Beta)](https://github.com/dlckdtnr1212-lang/JY-File-Cleaner/releases/tag/v2.0-beta) · [프로젝트 및 사용 안내](https://github.com/dlckdtnr1212-lang/JY-File-Cleaner)
 
 
 ### 🎮 RAID Champion DB
